@@ -3,12 +3,6 @@
   padding:0px;
 }
 
-#profile {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
-
 h2 {
   display: block;
   width: 400px;
@@ -16,7 +10,13 @@ h2 {
   font: 50px Monaco,"Fira Code Retina",monospace;
 }
 
-p {
+#profile {
+  display: block;
+  width:384px;
+  margin: 50px auto;
+}
+
+h3 {
   display: block;
   width: 400px;
   margin: 50px auto;
