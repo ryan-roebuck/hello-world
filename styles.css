@@ -12,13 +12,12 @@ h2 {
 
 #profile {
   display: block;
-  width:384px;
   margin: 50px auto;
 }
 
 p {
   display: block;
-  width: 600px;
+  width: 400px;
   margin: 50px auto;
   font: 35px Monaco,"Fira Code Retina",monospace;
 }
