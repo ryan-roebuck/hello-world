@@ -5,7 +5,7 @@
 
 h2 {
   display: block;
-  width: 360px;
+  width: 400px;
   margin: 50px auto;
   font: 50px Monaco,"Fira Code Retina",monospace;
 }
@@ -17,7 +17,7 @@ h2 {
 
 p {
   display: block;
-  width: 510px;
+  width: 600px;
   margin: 50px auto;
-  font: 50px Monaco,"Fira Code Retina",monospace;
+  font: 42px Monaco,"Fira Code Retina",monospace;
 }
